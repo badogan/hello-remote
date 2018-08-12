@@ -1,1 +1,2 @@
 Here is some text we are adding into demo.txt
+Some changes in the local copy done at 14:06 12Aug18
